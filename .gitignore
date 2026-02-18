@@ -1,0 +1,20 @@
+# .gitignore for Comp-104
+
+# Derleme çıktıları
+*.o
+*.out
+*.exe
+
+# Yedek dosyalar
+*~
+*.bak
+
+# VSCode ayarları
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Linux
+*.
+.swp
